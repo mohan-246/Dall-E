@@ -4,7 +4,7 @@
 
 DALL-E Image Generator is a website where you can unleash your creativity by creating and sharing AI-generated images using the powerful DALL-E model. This project is developed with the MERN stack and powered by OpenAI. To use the image generation features, you'll need to obtain an OpenAI API key.
 
-Visit the site: [DALL-E Image Generator](https://dall-e-mk5l.onrender.com/)
+Visit the site:- [DALL-E Image Generator](https://dall-e-mk5l.onrender.com/)
 
 ## Features
 
